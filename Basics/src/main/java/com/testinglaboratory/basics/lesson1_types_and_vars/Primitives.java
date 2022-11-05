@@ -19,5 +19,6 @@ public class Primitives {
 
 
         //TODO declare 2 variables each type and print it.
+
     }
 }
